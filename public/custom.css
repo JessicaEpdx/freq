@@ -1,0 +1,84 @@
+body{
+  color:#f0f8ff;
+  background-image:url('/img/freq_02.jpg');
+  background-color:black;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  word-wrap:break-word;
+
+}
+
+.welcome_header{
+  padding:2px;
+  text-align:center;
+  font-size:30px;
+
+}
+
+.name_of_game{
+  text-align:center;
+  padding:0;
+  margin:0;
+  margin-bottom:10px;
+  font-size:45px;
+  font-weight:bold;
+
+}
+
+.form_container1{
+  background-color:#134974;
+  margin:auto;
+  margin-top:100px;
+  padding:1px;
+  border-radius:5px;
+
+}
+
+.form_container2{
+  background-color:#E0E758;
+  margin:10px;
+  padding:5px;
+  border-radius:15px;
+
+}
+
+.form_container3{
+  background-color:#345538;
+  margin:7px;
+  padding:15px;
+  border-radius:15px;
+
+}
+
+.form_div{
+  background-color:#821A1A;
+  margin:5px;
+  padding:15px;
+  border-radius:15px;
+
+}
+
+.result_div{
+  background-color:#275259;
+  margin:0 auto;
+  margin-top:100px;
+  padding:20px;
+  border-radius:2px;
+
+}
+
+.list_div{
+  background-color:black;
+  border-radius:10px;
+  padding:5px;
+
+}
+
+.result_list{
+  list-style-type:none;
+  font-size:25px;
+  font-weight:bold;
+  margin:auto;
+  padding:5px;
+
+}
