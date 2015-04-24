@@ -12,9 +12,8 @@ Click the button that reads "What's the frequency Kenneth?"
 
 ####Github Access
 
-Github user: JessicaEpdx
-[Find FREQ on GitHub](https://github.com/JessicaEpdx/freq.git)
+[FREQ on GitHub](https://github.com/JessicaEpdx/freq.git)
 
 ####Heroku
 
-[Heroku Link](https://github.com/JessicaEpdx/freq.git)
+[Heroku Link]()
