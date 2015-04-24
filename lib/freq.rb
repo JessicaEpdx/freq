@@ -6,8 +6,8 @@ class String
     word_to_count=self.downcase()
     number_of_times=0
 
-    sentence_words.each() do |word|
-      if word.downcase()==word_to_count
+    sentence_words.each() do |word_in_sentence|
+      if word_in_sentence.downcase()==word_to_count
         number_of_times+=1
       end
     end
