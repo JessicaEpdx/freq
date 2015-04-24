@@ -1,8 +1,8 @@
 class String
   define_method(:freq) do |given_sentence|
-    
-    given_sentence.gsub!(/[^A-Za-z0-9\s]/i, '')
-    sentence_words=given_sentence.split()
+
+    new_sentence=given_sentence.gsub(/[^A-Za-z0-9\s]/i, '')
+    sentence_words=new_sentence.split()
     word_to_count=self.downcase()
     number_of_times=0
 

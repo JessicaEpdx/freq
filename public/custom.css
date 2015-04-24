@@ -58,6 +58,13 @@ body{
 
 }
 
+.btn-default{
+  background-color:#E0E758;
+  font-weight:bold;
+  color:#134974;
+
+}
+
 .result_div{
   background-color:#275259;
   margin:0 auto;
