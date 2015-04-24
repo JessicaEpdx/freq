@@ -17,3 +17,7 @@ Click the button that reads "What's the frequency Kenneth?"
 ####Heroku
 
 [Heroku Link]()
+
+####License
+
+MIT License. Copyright 2009-2015 Jessica Engel
