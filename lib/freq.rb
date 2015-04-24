@@ -11,7 +11,6 @@ class String
         number_of_times+=1
       end
     end
-
     number_of_times
   end
 end
