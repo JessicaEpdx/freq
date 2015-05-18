@@ -4,11 +4,21 @@
 
 Freq is a website where a user inputs a word and a string and the following page will return the number of times that word appears in the string.
 
+####Setup
+
+Gemfile included bundle before use:
+
+    $ bundle
+
 ####How to enter input
 
 Type in a word in the first form box
 Type in a sentence in the second form box
 Click the button that reads "What's the frequency Kenneth?"
+
+####Github Access
+
+For any debugging questions contact JessicaEpdx@gmail.com
 
 ####Github Access
 
